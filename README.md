@@ -4,6 +4,7 @@ An open-source filter for a custom dark-field setup that can be adapted to any c
 
 
 
+<img width="538" height="583" alt="Side_Ilumination" src="https://github.com/user-attachments/assets/ef0d7ce2-a3c3-4ac0-8d3c-299a7f44c1a1" />
 
 
 This 3D-printed / laser-cut design is created for contrast illumination techniques, aimed at microscopy enthusiasts and professionals.
@@ -79,3 +80,4 @@ The diameter of the opaque stop should be approximately 8mm for the 10X objectiv
    - Bradbury, Savile; An Introduction to Light Microscopy; Oxford University Press 1984
    - Hartley, W.G.; Hartley's Microscopy; Senecio Publishers Limited 1979
    - Hoffman, Robert; The Modulation Contrast Microscope; Journal of Microscopy Vol. 110 pt. 3 August 1977
+
