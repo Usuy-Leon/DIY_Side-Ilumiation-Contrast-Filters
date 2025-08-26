@@ -85,7 +85,7 @@ The diameter of the opaque stop should be approximately 8mm for the 10X objectiv
 >  3. Beyond 0.65 NA Spider stop filters are harder to use and allign !
 
 
-![daph_Dark](https://github.com/user-attachments/assets/f4cad830-730c-4dc8-8664-54d7b1bbb2bf)
+<img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/1e7ccea1-af81-4373-8443-7a66af69ccca" />
 
 
 # Recomended readings
@@ -93,6 +93,7 @@ The diameter of the opaque stop should be approximately 8mm for the 10X objectiv
    - Bradbury, Savile; An Introduction to Light Microscopy; Oxford University Press 1984
    - Hartley, W.G.; Hartley's Microscopy; Senecio Publishers Limited 1979
    - Hoffman, Robert; The Modulation Contrast Microscope; Journal of Microscopy Vol. 110 pt. 3 August 1977
+
 
 
 
