@@ -10,20 +10,30 @@ An open-source filter for a custom dark-field setup that can be adapted to any c
 This 3D-printed / laser-cut design is created for contrast illumination techniques, aimed at microscopy enthusiasts and professionals.
 
 
-# Why Improve Contrast?
+# Why you should Improve the Contrast?
 
 In microscopy, many specimens—especially unstained or living samples—exhibit such low contrast that, despite an objective’s resolving power, important details remain nearly invisible.**Enhancing contrast is crucial for making these features observable without obscuring or damaging the specimen.**
 
 Applying chemical dyes or fixatives can alter the sample, so microscopists have long sought ways to increase contrast in unstained material without exposing it to chemical or thermal “violence.” Although commonly used techniques—such as closing the condenser aperture diaphragm below 60% or lowering the substage condenser **do increase contrast, they also greatly diminish resolution and image sharpness.** As a result, finding contrast-enhancing methods that preserve specimen integrity and image quality remains central to microscopy.
+
+
+# Why you should use side ilumiation?
+
+
+Side ilumination can enhance the resolution of the microscope image and create a shadowed, relief-like pseudo three-dimensional effect in the specimen’s appearance. Oblique illumination is particularly effective for viewing unstained specimens such as living cells. However, one must interpret the images cautiously because only diffracted orders from one side contribute to image formation.
+
+To achieve oblique illumination, a sector stop is placed just below the condenser’s lower lens—often held in place by a filter holder. The cut-out section of the sector stop permits only oblique, direct light to illuminate the specimen.
+
 
 # How to use it for 3D printing?
 
 
 Simply download the correct STL file for your prints.
 
+![Screencast From 2025-08-26 14-40-22](https://github.com/user-attachments/assets/534b30c8-6222-4084-a6d9-06a25d2a2c0b)
 
 
-![video1](https://github.com/user-attachments/assets/3f7def72-e6ca-41c2-bca9-49981f7a2a8b)
+
 
 # Want to customize the design for your own specific objective or microscope?
 
@@ -54,11 +64,12 @@ Simply download the correct STL file for your prints.
    - Input the thickness and type of material you'll be cutting
 - [ ] Start the cutting 
 
-# How to use a spider stop ?
+# How to use a side ilumination filter ?
 
 Most microscopes have a way to add a filter in the optical path between the ilumination and the condenser.
 
-<img width="1500" height="480" alt="image" src="https://github.com/user-attachments/assets/11bfb982-eb0a-4e83-ace3-359706c6d1ca" />
+<img width="1216" height="1011" alt="image" src="https://github.com/user-attachments/assets/fb1ef9f6-63cc-4e73-b96a-9ef1271ec812" />
+
 
 The diameter of the opaque stop should be approximately 8mm for the 10X objective of N.A. 0.25 to approximately 15mm for objectives of N.A. 0.65.
 
@@ -80,4 +91,5 @@ The diameter of the opaque stop should be approximately 8mm for the 10X objectiv
    - Bradbury, Savile; An Introduction to Light Microscopy; Oxford University Press 1984
    - Hartley, W.G.; Hartley's Microscopy; Senecio Publishers Limited 1979
    - Hoffman, Robert; The Modulation Contrast Microscope; Journal of Microscopy Vol. 110 pt. 3 August 1977
+
 
