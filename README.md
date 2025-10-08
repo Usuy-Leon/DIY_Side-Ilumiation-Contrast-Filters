@@ -80,7 +80,7 @@ If your microscope does not come with a filter holder. Use the hand spider sotop
 > **MAKE SURE !**
 >  1. Your condenser is as close to the sample as possible !
 >  2. The Field Diafragm is at least 90 % open !
->  3. Beyond 0.65 NA Spider stop filters are harder to use and allign !
+>  3. Use all the led intensity of the microscope
 
 
 <img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/1e7ccea1-af81-4373-8443-7a66af69ccca" />
@@ -91,6 +91,7 @@ If your microscope does not come with a filter holder. Use the hand spider sotop
    - Bradbury, Savile; An Introduction to Light Microscopy; Oxford University Press 1984
    - Hartley, W.G.; Hartley's Microscopy; Senecio Publishers Limited 1979
    - Hoffman, Robert; The Modulation Contrast Microscope; Journal of Microscopy Vol. 110 pt. 3 August 1977
+
 
 
 
