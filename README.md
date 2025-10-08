@@ -20,7 +20,7 @@ Using chemicals can change the specimen, so as a good microscopist you must have
 # Why you should use side ilumiation?
 
 
-Side ilumination can enhance the resolution of the microscope image and create a shadowed, relief-like pseudo three-dimensional effect in the specimen’s appearance. Oblique illumination is particularly effective for viewing unstained specimens such as living cells. However, one must interpret the images cautiously because only diffracted orders from one side contribute to image formation.
+Side ilumination can enhance the resolution of the microscope image and create a shadowed, relief-like pseudo three-dimensional effect in the specimen’s appearance. Oblique illumination is particularly effective for viewing unstained specimens such as living cells. 
 
 To achieve oblique illumination, a sector stop is placed just below the condenser. The cut-out section of the sector stop permits only oblique, indirect light to illuminate the specimen (you can go wild tryng multiple oblique filters and seeing what they do for your samples).
 
@@ -93,6 +93,7 @@ The diameter of the opaque stop should be approximately 8mm for the 10X objectiv
    - Bradbury, Savile; An Introduction to Light Microscopy; Oxford University Press 1984
    - Hartley, W.G.; Hartley's Microscopy; Senecio Publishers Limited 1979
    - Hoffman, Robert; The Modulation Contrast Microscope; Journal of Microscopy Vol. 110 pt. 3 August 1977
+
 
 
 
