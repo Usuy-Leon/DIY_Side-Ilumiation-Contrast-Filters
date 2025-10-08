@@ -12,9 +12,9 @@ This 3D-printed / laser-cut design is created for improving contrast and RESOLUT
 
 # Why you should Improve the Contrast?
 
-In microscopy, many specimens—especially unstained or living samples—exhibit such low contrast that, despite an objective’s resolving power, important details remain nearly invisible.**Enhancing contrast is crucial for making these features observable without obscuring or damaging the specimen.**
+In microscopy, many unstained or live samples have such low contrast that details are barely visible, even with good lenses. Boosting contrast is essential to see these details without harming the sample.
 
-Applying chemical dyes or fixatives can alter the sample, so microscopists have long sought ways to increase contrast in unstained material without exposing it to chemical or thermal “violence.” Although commonly used techniques—such as closing the condenser aperture diaphragm below 60% or lowering the substage condenser **do increase contrast, they also greatly diminish resolution and image sharpness.** As a result, finding contrast-enhancing methods that preserve specimen integrity and image quality remains central to microscopy.
+Using chemicals can change the specimen, so as a good microscopist you must have the goal of looking for ways to increase contrast without harsh treatments. Common methods like closing the aperture or lowering the condenser "do help" but also create ab image with less resolution. So, finding better contrast tricks that can keep the sample and image quality intact is a why you are here.
 
 
 # Why you should use side ilumiation?
@@ -93,6 +93,7 @@ The diameter of the opaque stop should be approximately 8mm for the 10X objectiv
    - Bradbury, Savile; An Introduction to Light Microscopy; Oxford University Press 1984
    - Hartley, W.G.; Hartley's Microscopy; Senecio Publishers Limited 1979
    - Hoffman, Robert; The Modulation Contrast Microscope; Journal of Microscopy Vol. 110 pt. 3 August 1977
+
 
 
 
