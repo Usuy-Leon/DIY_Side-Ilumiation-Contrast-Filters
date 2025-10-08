@@ -72,9 +72,7 @@ Most microscopes have a way to add a filter in the optical path between the ilum
 
 (Taken from Abramowitz, Olympus Corporation 1990)
 
-
-The diameter of the opaque stop should be approximately 8mm for the 10X objective of N.A. 0.25 to approximately 15mm for objectives of N.A. 0.65.
-
+If your microscope does not come with a filter holder. Use the hand spider sotop filter to try different angles 
 
 
 <img width="800" height="323" alt="image" src="https://github.com/user-attachments/assets/710ad9fb-9744-4053-99a7-2c357e4416d7" />
@@ -93,6 +91,7 @@ The diameter of the opaque stop should be approximately 8mm for the 10X objectiv
    - Bradbury, Savile; An Introduction to Light Microscopy; Oxford University Press 1984
    - Hartley, W.G.; Hartley's Microscopy; Senecio Publishers Limited 1979
    - Hoffman, Robert; The Modulation Contrast Microscope; Journal of Microscopy Vol. 110 pt. 3 August 1977
+
 
 
 
