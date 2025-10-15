@@ -75,11 +75,13 @@ Simply download the correct STL file for your prints.
 - [ ] Start the cutting
 
 </div>
-
+<div align="left">
+ 
 # How to use a side ilumination filter ?
 
 Most microscopes have a way to add a filter in the optical path between the ilumination and the condenser.
 
+</div>
 <div align="center">
 
 
@@ -120,6 +122,7 @@ If your microscope does not come with a filter holder. Use the hand spider sotop
 
 
 </div>
+
 
 
 
