@@ -14,7 +14,7 @@ This 3D-printed / laser-cut design is created for improving contrast and RESOLUT
 
 In microscopy, many unstained or live samples have such low contrast that details are barely visible, even with good lenses. Boosting contrast is essential to see these details without harming the sample.
 
-Using chemicals can change the specimen, so as a good microscopist you must have the goal of looking for ways to increase contrast without harsh treatments. Common methods like closing the aperture or lowering the condenser "do help" but also create ab image with less resolution. So, finding better contrast tricks that can keep the sample and image quality intact is a why you are here.
+Using chemicals can damage or change the specimen, so the field is always looking for ways to increase contrast without harsh treatments. Common methods like closing the aperture or lowering the condenser "do help" but also create ab image with less resolution. So, finding better contrast tricks that can keep the sample and image quality intact is a why you are here.
 
 
 # Why you should use side ilumiation?
@@ -91,6 +91,7 @@ If your microscope does not come with a filter holder. Use the hand spider sotop
    - Bradbury, Savile; An Introduction to Light Microscopy; Oxford University Press 1984
    - Hartley, W.G.; Hartley's Microscopy; Senecio Publishers Limited 1979
    - Hoffman, Robert; The Modulation Contrast Microscope; Journal of Microscopy Vol. 110 pt. 3 August 1977
+
 
 
 
