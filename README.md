@@ -1,3 +1,8 @@
+
+
+<div align="center">
+<div style="background-color: #1a1b1e; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+ 
 # DIY Side Ilumiation Filters
 
 An open-source filter for a custom side ilumination setup that can be adapted to any compound microscope. 🔬🔬
@@ -8,7 +13,9 @@ An open-source filter for a custom side ilumination setup that can be adapted to
 
 
 This 3D-printed / laser-cut design is created for improving contrast and RESOLUTION! thanks to illumination techniques, aimed at microscopy enthusiasts and professionals.
+</div>
 
+<div align="left">
 
 # Why you should Improve the Contrast?
 
@@ -17,9 +24,7 @@ In microscopy, many unstained or live samples have such low contrast that detail
 Using chemicals can damage or change the specimen, so the field is always looking for ways to increase contrast without harsh treatments. Common methods like closing the aperture or lowering the condenser "do help" but also create an image with less resolution. Improving image queality in live samples is a then the goal of this repo
 
 
-
 # Why you should use side ilumiation?
-
 
 Side ilumination can enhance the resolution of the microscope image and create a shadowed, relief-like pseudo three-dimensional effect in the specimen’s appearance. (something similar put a light under your chin in a dark room, you get a lot of contrast on face patterns that cast shadows). Oblique illumination is particularly effective for viewing unstained specimens such as living cells. 
 
@@ -28,14 +33,19 @@ To achieve oblique illumination, a sector stop is placed just below the condense
 
 # How to use it for 3D printing?
 
-
 Simply download the correct STL file for your prints.
+</div>
+
+<div align="center">
 
 ![Screencast From 2025-08-26 14-40-22](https://github.com/user-attachments/assets/534b30c8-6222-4084-a6d9-06a25d2a2c0b)
 
 
+</div>
 
 
+<div align="left">
+ 
 # Want to customize the design for your own specific objective or microscope?
 
 > **Alternatively:**
@@ -45,12 +55,11 @@ Simply download the correct STL file for your prints.
    - " https://openscad.org/downloads.html "
 - [ ] Open the file using the program and look for parameters of the filter
 
-    <img width="800" height="280" alt="image" src="https://github.com/user-attachments/assets/2b5b19a5-1e32-407a-8524-bd4192ad69ff" />
+    <img width="700" height="180" alt="image" src="https://github.com/user-attachments/assets/2b5b19a5-1e32-407a-8524-bd4192ad69ff" />
 
 - [ ] Simply edit to your needs
    - All measurement are in milimiters
 - [ ] Generate a new STL file, save it and you are ready to print.
-
 
 
 # How to use it for Laser cutting?
@@ -63,21 +72,36 @@ Simply download the correct STL file for your prints.
 
 - [ ] Set material properties:
    - Input the thickness and type of material you'll be cutting
-- [ ] Start the cutting 
+- [ ] Start the cutting
+
+</div>
 
 # How to use a side ilumination filter ?
 
 Most microscopes have a way to add a filter in the optical path between the ilumination and the condenser.
 
+<div align="center">
+
+
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/fb1ef9f6-63cc-4e73-b96a-9ef1271ec812" />
 
 (Taken from Abramowitz, Olympus Corporation 1990)
 
+</div>
+
+<div align="left">
 If your microscope does not come with a filter holder. Use the hand spider sotop filter to try different angles 
 
+</div>
+<div align="center">
 
 <img width="800" height="323" alt="image" src="https://github.com/user-attachments/assets/710ad9fb-9744-4053-99a7-2c357e4416d7" />
 
+
+</div>
+
+<div align="left">
+ 
 > **MAKE SURE !**
 >  1. Your condenser is as close to the sample as possible !
 >  2. The Field Diafragm is at least 90 % open !
@@ -94,6 +118,8 @@ If your microscope does not come with a filter holder. Use the hand spider sotop
    - Hoffman, Robert; The Modulation Contrast Microscope; Journal of Microscopy Vol. 110 pt. 3 August 1977
 
 
+
+</div>
 
 
 
