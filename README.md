@@ -4,7 +4,7 @@
 <div style="background-color: #1a1b1e; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
  
 # DIY Side Ilumiation Filters
-
+<hr>
 An open-source filter for a custom side ilumination setup that can be adapted to any compound microscope. 🔬🔬
 
 
@@ -14,7 +14,7 @@ An open-source filter for a custom side ilumination setup that can be adapted to
 
 This 3D-printed / laser-cut design is created for improving contrast and RESOLUTION! thanks to illumination techniques, aimed at microscopy enthusiasts and professionals.
 </div>
-
+<hr>
 <div align="left">
 
 # Why you should Improve the Contrast?
@@ -122,6 +122,7 @@ If your microscope does not come with a filter holder. Use the hand spider sotop
 
 
 </div>
+
 
 
 
