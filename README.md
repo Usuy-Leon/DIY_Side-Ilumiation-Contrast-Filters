@@ -83,7 +83,7 @@ Most microscopes have a way to add a filter in the optical path between the ilum
 
 </div>
 <div align="center">
-
+# How does it look ?
 
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/fb1ef9f6-63cc-4e73-b96a-9ef1271ec812" />
 
@@ -122,6 +122,7 @@ If your microscope does not come with a filter holder. Use the hand spider sotop
 
 
 </div>
+
 
 
 
