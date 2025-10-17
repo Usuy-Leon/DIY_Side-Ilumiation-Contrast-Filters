@@ -100,7 +100,6 @@ If your microscope does not come with a filter holder. Use the hand spider sotop
 
 
 </div>
-
 <div align="left">
  
 > **MAKE SURE !**
@@ -115,7 +114,9 @@ If your microscope does not come with a filter holder. Use the hand spider sotop
 
 <img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/1e7ccea1-af81-4373-8443-7a66af69ccca" />
 
-
+</div>
+<div align="left">
+ 
 # Recomended readings
    - Abramowitz, Mortimer; Microscope Basics and Beyond Vol, 2; Olympus Corporation 1990
    - Bradbury, Savile; An Introduction to Light Microscopy; Oxford University Press 1984
@@ -125,6 +126,7 @@ If your microscope does not come with a filter holder. Use the hand spider sotop
 
 
 </div>
+
 
 
 
