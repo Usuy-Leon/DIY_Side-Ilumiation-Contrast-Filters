@@ -21,7 +21,7 @@ This 3D-printed / laser-cut design is created for improving contrast and RESOLUT
 
 In microscopy, many unstained or live samples have such low contrast that details are barely visible, even with good lenses. Boosting contrast is essential to see these details without harming the sample.
 
-Using chemicals can damage or change the specimen, so the field is always looking for ways to increase contrast without harsh treatments. Common methods like closing the aperture or lowering the condenser "do help" but also create an image with less resolution. You should Improve the Contrast yo Improve image queality in live sample.
+Using chemicals can damage or change the specimen, so the field is always looking for ways to increase contrast without harsh treatments. Common methods like closing the aperture or lowering the condenser "do help" but also create an image with less resolution. Side ilumination give you overall better image queality.
 
 
 # Why you should use side ilumiation?
@@ -122,6 +122,7 @@ If your microscope does not come with a filter holder. Use the hand spider sotop
 
 
 </div>
+
 
 
 
