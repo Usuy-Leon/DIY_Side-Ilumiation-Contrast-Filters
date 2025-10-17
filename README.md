@@ -26,7 +26,7 @@ Using chemicals can damage or change the specimen, so the field is always lookin
 
 # Why you should use side ilumiation?
 
-Side ilumination can enhance the resolution of the microscope image and create a shadowed, relief-like pseudo three-dimensional effect in the specimen’s appearance. (something similar put a light under your chin in a dark room, you get a lot of contrast on face patterns that cast shadows). Oblique illumination is particularly effective for viewing unstained specimens such as living cells. 
+Side ilumination can enhance the resolution of the microscope image and create a shadowed, relief-like pseudo three-dimensional effect in the specimen’s appearance. ( when you put a light source under your chin in a dark room, you get a lot of contrast on face patterns that cast shadows). Oblique illumination is particularly effective for viewing unstained specimens such as living cells. 
 
 To achieve oblique illumination, a sector stop is placed just below the condenser. The cut-out section of the sector stop permits only oblique, indirect light to illuminate the specimen (try multiple oblique filters and seeing what they do for your samples).
 
@@ -122,6 +122,7 @@ If your microscope does not come with a filter holder. Use the hand spider sotop
 
 
 </div>
+
 
 
 
